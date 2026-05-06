@@ -1,1 +1,1 @@
-# full-stack-journey
+# full-stack
